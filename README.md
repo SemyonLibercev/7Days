@@ -1,2 +1,2 @@
-# Mf7Days
-Movies for 7 days
+# 7Days
+Movies and games for 7 days
