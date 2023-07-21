@@ -1,2 +1,2 @@
 # 7Days
-Movies and games for 7 days
+Games for 7 days
